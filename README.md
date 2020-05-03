@@ -12,13 +12,21 @@ Using Starbucks app user data to:
 # 1. Installations
 
 pandas
+
 numpy
+
 json
+
 matplotlib
+
 seaborn
+
 sklearn.linear_model (LogisticRegression)
+
 sklearn.ensemble (RandomForestClassifier and AdaBoostClassifier)
+
 sklearn.model_selection (train_test_split, cross_val_score and GridSearchCV)
+
 sklearn.metrics  (classification_report)
 
 # 2. Project overview
