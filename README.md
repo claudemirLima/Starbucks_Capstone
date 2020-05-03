@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree Capstone Project
 
-# projet udacity nanodegree (Starbucks Capstone)
+projet udacity nanodegree (Starbucks Capstone)
 
 Using Starbucks app user data to:
 
