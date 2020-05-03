@@ -21,11 +21,11 @@ sklearn.ensemble (RandomForestClassifier and AdaBoostClassifier)
 sklearn.model_selection (train_test_split, cross_val_score and GridSearchCV)
 sklearn.metrics  (classification_report)
 
-# Project overview
+# 2. Project overview
 
 In this project I will work with the data obtained from the Starbuks app, it contains demographic data from users and how each one behaves when receiving offers from the system. Through the application, Starbuks sends several offers to customers who may or may not respond.The app stores each transaction made by the customer, making it possible to identify if he answered the offer.
 
-# File Descriptions 
+# 3. File Descriptions 
 
   - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
   - profile.json - demographic data for each customer
